@@ -23,7 +23,7 @@ A simple cloud lab where I:
 
 ## Screenshots
 
-- Avaliable under:[(https://github.com/Willief3/aws-cloud-lab/tree/main/configs)](https://github.com/Willief3/aws-cloud-lab/tree/main/diagrams)](https://github.com/Willief3/aws-cloud-lab/tree/main/diagrams)
+- Avaliable under:[(https://github.com/Willief3/aws-cloud-lab/tree/main/configs)](https://github.com/Willief3/aws-cloud-lab/tree/main/diagrams)]
 
 ##  Lessons Learned
 
