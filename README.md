@@ -3,9 +3,9 @@ This project is intended as an intro into AWS framework and provides assistance 
 
 # AWS Web App Lab – EC2 + ALB + ACM
 
-🚧 **Project in progress** – this repo documents my learning as I build and secure a web application using AWS services.
+**Project in progress** – this repo documents my learning as I build and secure a web application using AWS services.
 
-## ☁Overview
+## Overview
 
 A simple cloud lab where I:
 - Launch a PHP-based web app on EC2
