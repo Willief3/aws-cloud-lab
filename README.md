@@ -32,14 +32,14 @@ Visuals and architecture diagrams are available under:
 - (To be updated with ALB/EC2/SG screenshots as lab progresses)
 
 ---
+## Project Insights & Challenges
 
-## Lessons Learned
+During this project, I encountered real-world issues with HTTPS routing and AWS permissions:
 
-- IAM trust policies and how EC2 role assumptions work
-- The benefits of SSL termination at the ALB vs EC2
-- Restricting EC2 inbound traffic using ALB security group references
-- Understanding and responding to GuardDuty alerts
-
+- Learned that HTTPS termination should happen at the ALB, not EC2.
+- Improved security by configuring EC2 to only accept traffic from the ALB.
+- Troubleshot SSL mismatch warnings due to domain/cert alignment.
+- Gained confidence in IAM policy usage and Security Group scoping.
 ---
 
 ## Config Files
