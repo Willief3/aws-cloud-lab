@@ -5,7 +5,7 @@ This project is intended as an intro into AWS framework and provides assistance 
 
 🚧 **Project in progress** – this repo documents my learning as I build and secure a web application using AWS services.
 
-## ☁️ Overview
+## ☁Overview
 
 A simple cloud lab where I:
 - Launch a PHP-based web app on EC2
@@ -21,9 +21,9 @@ A simple cloud lab where I:
 - S3 (hosted logs, secure buckets)
 - GuardDuty (threat detection)
 
-## 📸 Screenshots
+## Screenshots
 
-- Avaliable under: 
+- Avaliable under: screenshots
 
 ##  Lessons Learned
 
@@ -32,8 +32,8 @@ A simple cloud lab where I:
 - How to limit EC2 Security Group exposure using ALB SGs
 - What GuardDuty alerts look like for common attack patterns
 
-## 🔧 Config Files
+## Config Files
 
-- Avalilable under:
+- Avalilable under: configs
 
 
