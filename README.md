@@ -23,7 +23,7 @@ A simple cloud lab where I:
 
 ## Screenshots
 
-- Avaliable under: screenshots
+- Avaliable under: [screenshots](https://github.com/Willief3/aws-cloud-lab/tree/main/configs)
 
 ##  Lessons Learned
 
@@ -34,6 +34,6 @@ A simple cloud lab where I:
 
 ## Config Files
 
-- Avalilable under: configs
+- Avalilable under: [configs](https://github.com/Willief3/aws-cloud-lab/tree/main/configs)
 
 
